@@ -1,0 +1,22 @@
+{
+  "name": "base-convertor",
+  "version": "1.0.0",
+  "description": "Homework 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmFrPl/base-convertor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmFrPl/base-convertor/issues"
+  },
+  "homepage": "https://github.com/ArmFrPl/base-convertor#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
